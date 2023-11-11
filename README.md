@@ -13,5 +13,18 @@
   - [*Python Course from Progate*](https://drive.google.com/file/d/117XbX1nxjBIxpdYKD3yJoIlbWLPIS-HI/view?usp=sharing)
   - [*SQL Course from Progate*](https://drive.google.com/file/d/1GAbOEeKApx_4tKpnWy3LCXgMJIAG04zp/view?usp=sharing)
 
-#
+- I have some experiene for doing my project with language/frameworks/technologies:
+  - <strong>Programming Languages:</strong> Python
+  - <strong>Version Control Systems:</strong> Git/Github
+  - <strong>Databases/Data Warehouse:</strong> PostgreSQL, SQLite, and BigQuery
+  - <strong>Big Data Processing:</strong> Hadoop, Spark, Apache Kafka, Apache Airflow
+  - <strong>Business Intelligence:</strong> Metabase, PowerBI, Tableau, Looker Studio
+ 
+- I am currently learning:
+  - [*Cloud Digital Leader Certification Learning Path*](https://partner.cloudskillsboost.google/journeys/75)
+  - [*Professional Data Engineer Certification Learning Path*](https://partner.cloudskillsboost.google/journeys/85) 
+
+- For Data Engineering here are some projects I have worked on:
+  - 
+
   💥💥💥 ~~ [**Check out my portfolio here!**](https://github.com/Xedonedron/portfolio) ~~ 💥💥💥
