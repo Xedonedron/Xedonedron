@@ -25,6 +25,6 @@
   - [*Professional Data Engineer Certification Learning Path*](https://partner.cloudskillsboost.google/journeys/85) 
 
 - For Data Engineering here are some projects I have worked on:
-  - 
+  - sefsef
 
   💥💥💥 ~~ [**Check out my portfolio here!**](https://github.com/Xedonedron/portfolio) ~~ 💥💥💥
