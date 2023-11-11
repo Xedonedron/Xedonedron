@@ -27,4 +27,4 @@
 - For Data Engineering here are some projects I have worked on:
   - sefsef
 
-  💥💥💥 ~~ [**Check out my portfolio here!**](https://github.com/Xedonedron/portfolio) ~~ 💥💥💥
+  💥💥💥 ~~ [**Check out my portfolio here!**](https://github.com/Xedonedron/portofolio) ~~ 💥💥💥
