@@ -27,6 +27,7 @@
 - For Data Engineering here are some projects I have worked on:
   - [*Web Scraping - Selenium*](https://github.com/Xedonedron/web-scraping)
   - [*Automatic Data Heterogeneous Integration - Airflow, Hadoop, Metabase*](https://github.com/Xedonedron/data-lake-for-smart-farming)
+  - [*Sentiment Analysis on Tweet Data - Python, Pandas, PySpark, Kafka*](https://github.com/Xedonedron/PDBFinalProject)
 
 #
   💥💥💥 ~~ [**Check out my full portfolio here!**](https://github.com/Xedonedron/portofolio) ~~ 💥💥💥
