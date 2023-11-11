@@ -25,6 +25,7 @@
   - [*Professional Data Engineer Certification Learning Path*](https://partner.cloudskillsboost.google/journeys/85) 
 
 - For Data Engineering here are some projects I have worked on:
-  - sefsef
+  - [*Web Scraping - Selenium*](https://github.com/Xedonedron/web-scraping)
+  - [*Automatic Data Heterogeneous Integration - Airflow, Hadoop, Metabase*](https://github.com/Xedonedron/data-lake-for-smart-farming)
 
-  💥💥💥 ~~ [**Check out my portfolio here!**](https://github.com/Xedonedron/portofolio) ~~ 💥💥💥
+  💥💥💥 ~~ [**Check out my full portfolio here!**](https://github.com/Xedonedron/portofolio) ~~ 💥💥💥
