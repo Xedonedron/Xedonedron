@@ -1,4 +1,5 @@
 ## Hi there, I'm Nixon! 👋
+![https://github.com/Xedonedron](https://komarev.com/ghpvc/?username=Xedonedron&style=for-the-badge)
 
 ### Here's a little bit about myself
 
