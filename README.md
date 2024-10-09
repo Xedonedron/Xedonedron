@@ -9,10 +9,11 @@
 - 📫 How to reach me [*LinkedIn*](https://www.linkedin.com/in/nixon-hutahaean/)
 - 📝 My certification:
   - [*Big Data Analysis Specialty from Alibaba Cloud*](https://drive.google.com/file/d/1Sq7GxHqUD0UWlDQQPsdVY9nYDyWH07Sw/view?usp=sharing)
-  - [*Java Course from Progate*](https://drive.google.com/file/d/1XidpY8zr93JXueuhwVObhzbypd14t4AD/view?usp=sharing)
-  - [*Python Course from Progate*](https://drive.google.com/file/d/117XbX1nxjBIxpdYKD3yJoIlbWLPIS-HI/view?usp=sharing)
+`  - [*Python Course from Progate*](https://drive.google.com/file/d/117XbX1nxjBIxpdYKD3yJoIlbWLPIS-HI/view?usp=sharing)
   - [*SQL Course from Progate*](https://drive.google.com/file/d/1GAbOEeKApx_4tKpnWy3LCXgMJIAG04zp/view?usp=sharing)
+  - [*Astronomer Certification for Apache airflow fundamentals*](https://drive.google.com/file/d/1junXJWuuHpt-0Hu1Gg5SKAIJQlzCCAN4/view?usp=sharing)
   - [*Google Cloud Certified Professional Data Engineer*](https://drive.google.com/file/d/1upevxEBP4FX8lggBkC_8a6NkwOenNaiV/view?usp=sharing)
+  - [*Microsoft Certified: Fabric Analytics Engineer Associate*](https://drive.google.com/file/d/1zTvpPCIU1z7I7fbTApRQwCHVQW_Kvrp4/view?usp=sharing)
 
 - I have some experiene for doing my project with language/frameworks/technologies:
   - <strong>Programming Languages:</strong> Python
