@@ -12,6 +12,7 @@
   - [*Java Course from Progate*](https://drive.google.com/file/d/1XidpY8zr93JXueuhwVObhzbypd14t4AD/view?usp=sharing)
   - [*Python Course from Progate*](https://drive.google.com/file/d/117XbX1nxjBIxpdYKD3yJoIlbWLPIS-HI/view?usp=sharing)
   - [*SQL Course from Progate*](https://drive.google.com/file/d/1GAbOEeKApx_4tKpnWy3LCXgMJIAG04zp/view?usp=sharing)
+  - [*Google Cloud Certified Professional Data Engineer*](https://drive.google.com/file/d/1upevxEBP4FX8lggBkC_8a6NkwOenNaiV/view?usp=sharing)
 
 - I have some experiene for doing my project with language/frameworks/technologies:
   - <strong>Programming Languages:</strong> Python
@@ -21,8 +22,7 @@
   - <strong>Business Intelligence:</strong> Metabase, PowerBI, Tableau, Looker Studio
  
 - I am currently learning:
-  - [*Cloud Digital Leader Certification Learning Path*](https://partner.cloudskillsboost.google/journeys/75)
-  - [*Professional Data Engineer Certification Learning Path*](https://partner.cloudskillsboost.google/journeys/85) 
+  - [*Professional Cloud Database Engineer Certification Learning Path*](https://cloud.google.com/learn/certification/cloud-database-engineer) 
 
 - For Data Engineering here are some projects I have worked on:
   - [*Web Scraping - Selenium*](https://github.com/Xedonedron/web-scraping)
