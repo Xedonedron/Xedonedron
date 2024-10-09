@@ -9,7 +9,7 @@
 - 📫 How to reach me [*LinkedIn*](https://www.linkedin.com/in/nixon-hutahaean/)
 - 📝 My certification:
   - [*Big Data Analysis Specialty from Alibaba Cloud*](https://drive.google.com/file/d/1Sq7GxHqUD0UWlDQQPsdVY9nYDyWH07Sw/view?usp=sharing)
-`  - [*Python Course from Progate*](https://drive.google.com/file/d/117XbX1nxjBIxpdYKD3yJoIlbWLPIS-HI/view?usp=sharing)
+  - [*Python Course from Progate*](https://drive.google.com/file/d/117XbX1nxjBIxpdYKD3yJoIlbWLPIS-HI/view?usp=sharing)
   - [*SQL Course from Progate*](https://drive.google.com/file/d/1GAbOEeKApx_4tKpnWy3LCXgMJIAG04zp/view?usp=sharing)
   - [*Astronomer Certification for Apache airflow fundamentals*](https://drive.google.com/file/d/1junXJWuuHpt-0Hu1Gg5SKAIJQlzCCAN4/view?usp=sharing)
   - [*Google Cloud Certified Professional Data Engineer*](https://drive.google.com/file/d/1upevxEBP4FX8lggBkC_8a6NkwOenNaiV/view?usp=sharing)
