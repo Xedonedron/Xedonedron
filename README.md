@@ -24,7 +24,7 @@
   - <strong>Business Intelligence:</strong> Metabase, Looker Studio, PowerBI, Tableau
  
 - I am currently learning:
-  - [*Associate Cloud Engineer*](https://cloud.google.com/learn/certification/cloud-engineer)
+  - [*Google Cloud Certified Associate Cloud Engineer*](https://cloud.google.com/learn/certification/cloud-engineer)
   - Generative AI
   - Greenplum for MPP Database
 
