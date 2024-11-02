@@ -14,16 +14,19 @@
   - [*Astronomer Certification for Apache airflow fundamentals*](https://drive.google.com/file/d/1junXJWuuHpt-0Hu1Gg5SKAIJQlzCCAN4/view?usp=sharing)
   - [*Google Cloud Certified Professional Data Engineer*](https://drive.google.com/file/d/1upevxEBP4FX8lggBkC_8a6NkwOenNaiV/view?usp=sharing)
   - [*Microsoft Certified: Fabric Analytics Engineer Associate*](https://drive.google.com/file/d/1zTvpPCIU1z7I7fbTApRQwCHVQW_Kvrp4/view?usp=sharing)
+  - [*Google Cloud Certified Professional Cloud Datbaase Engineer*](https://drive.google.com/file/d/10m6cyAhZMTwpLeAv-_qMWM0Irv9ARCNl/view?usp=sharing)
 
 - I have some experiene for doing my project with language/frameworks/technologies:
-  - <strong>Programming Languages:</strong> Python
+  - <strong>Programming Languages:</strong> Python, SQL
   - <strong>Version Control Systems:</strong> Git/Github
-  - <strong>Databases/Data Warehouse:</strong> PostgreSQL, SQLite, and BigQuery
+  - <strong>Databases/Data Warehouse:</strong> RDBMS, Greenplum, BigQuery
   - <strong>Big Data Processing:</strong> Hadoop, Spark, Apache Kafka, Apache Airflow
-  - <strong>Business Intelligence:</strong> Metabase, PowerBI, Tableau, Looker Studio
+  - <strong>Business Intelligence:</strong> Metabase, Looker Studio, PowerBI, Tableau
  
 - I am currently learning:
-  - [*Professional Cloud Database Engineer Certification Learning Path*](https://cloud.google.com/learn/certification/cloud-database-engineer) 
+  - [*Associate Cloud Engineer*](https://cloud.google.com/learn/certification/cloud-engineer)
+  - Generative AI
+  - Greenplum for MPP Database
 
 - For Data Engineering here are some projects I have worked on:
   - [*Web Scraping - Selenium*](https://github.com/Xedonedron/web-scraping)
