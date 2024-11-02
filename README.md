@@ -19,7 +19,7 @@
 - I have some experiene for doing my project with language/frameworks/technologies:
   - <strong>Programming Languages:</strong> Python, SQL
   - <strong>Version Control Systems:</strong> Git/Github
-  - <strong>Databases/Data Warehouse:</strong> RDBMS, Greenplum, BigQuery
+  - <strong>Databases/Data Warehouse:</strong> MySQL, PostgreSQL, Greenplum, BigQuery
   - <strong>Big Data Processing:</strong> Hadoop, Spark, Apache Kafka, Apache Airflow
   - <strong>Business Intelligence:</strong> Metabase, Looker Studio, PowerBI, Tableau
  
