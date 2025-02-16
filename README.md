@@ -4,8 +4,8 @@
 ### Here's a little bit about myself
 
   - ⚡ I'm a self-taught data engineer
-  - 🤔 I'm currently looking for new opportunities in data engineering field
-  - 🌱 I’m currently learning more and more about Apache frameworks and also GCP
+  - 🤔 Currently looking for new opportunities in data engineering field
+  - 🌱 I’m also learning more and more about Apache frameworks and also GCP
   - 😄 Feel free to take a look at my projects!
   
 📝 My certification:
@@ -26,8 +26,9 @@ I have some experiene for doing my project with language/frameworks/technologies
  
 I am currently learning:
   - [*Google Cloud Certified Associate Cloud Engineer*](https://cloud.google.com/learn/certification/cloud-engineer)
-  - [*Generative AI8*](https://www.linkedin.com/feed/update/urn:li:activity:7269551519828426753/)
   - [*Greenplum*](https://greenplum.org/tutorials/) or [*Cloudberry*](https://cloudberry.apache.org/) for MPP Database
+  - Deep dive for learning [*Apache Kafka*](https://kafka.apache.org/)
+  - Deep dive for learning [*Apache Spark*](https://spark.apache.org/)
   - And also some Udemy Course ![image](https://github.com/user-attachments/assets/37704092-38bb-45f8-ad68-9c757452bd48)
 
 
