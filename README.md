@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Nixon Hutahaean</h1>
-<h3 align="center">I am a Data Engineer</h3>
+<h3 align="center">I’m making my life less dull by spending time learning and researching “how it works“ in the data engineering field.</h3>
 
 ### Here's a little bit about myself
 
