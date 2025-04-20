@@ -27,14 +27,15 @@ I have some experiene for doing my project with language/frameworks/technologies
 I am currently learning:
   - [*Google Cloud Certified Associate Cloud Engineer*](https://cloud.google.com/learn/certification/cloud-engineer)
   - [*Greenplum*](https://greenplum.org/tutorials/) or [*Cloudberry*](https://cloudberry.apache.org/) for MPP Database
-  - Deep dive for learning [*Apache Kafka*](https://kafka.apache.org/)
+  - [*Confluent and Apache Kafka*](https://training.confluent.io/partners/channeldetail/developer--learning-path)
   - Deep dive for learning [*Apache Spark*](https://spark.apache.org/)
   - And also some Udemy Course ![image](https://github.com/user-attachments/assets/37704092-38bb-45f8-ad68-9c757452bd48)
+  - Data Visualization for data journalism by [GNFI Academy](https://gnfiacademy.id/)
 
 
 For Data Engineering here are some projects I have worked on:
   - [*Web Scraping - Selenium*](https://github.com/Xedonedron/web-scraping)
-  - [*Automatic Data Heterogeneous Integration - Airflow, Hadoop, Metabase*](https://github.com/Xedonedron/data-lake-for-smart-farming)
+  - [*Automatic for Smart Farming Data Heterogeneous Integration - Airflow, Hadoop (HDFS), Metabase*](https://github.com/Xedonedron/data-lake-for-smart-farming)
   - [*Sentiment Analysis on Tweet Data - Python, Pandas, PySpark, Kafka*](https://github.com/Xedonedron/PDBFinalProject)
 
 <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=xedonedron&show_icons=true&locale=en&layout=compact" alt="xedonedron" /></p>
